@@ -16,7 +16,7 @@
   "onlyGc": false,
   "onlyPc": false,
   "giveaways": {},
-  "botMode": "public",
+  "botMode": "self",
   "audioMenu": true,
   "transactionSessions": {},
   "premiumUsers": [],
@@ -27,7 +27,7 @@
   "publicAdmin": false,
   "_lastEnergiDefault": 99999,
   "_lastEnergiPremium": 99999999,
-  "lastLimitReset": "2026-07-07T17:00:00.041Z",
+  "lastLimitReset": "2026-07-17T17:00:00.017Z",
   "onlyThisGroup": null,
   "autoJpm": {
     "enabled": false,
@@ -55,7 +55,7 @@
     "enabled": true
   },
   "autoReactSW": {
-    "enabled": true,
+    "enabled": false,
     "emoji": "🔥"
   },
   "customPaymentText": "",
@@ -66,7 +66,92 @@
   "ownerNames": {},
   "publicGroups": [],
   "autoRead": false,
-  "contacts": {},
+  "contacts": {
+    "6289691375967@s.whatsapp.net": {
+      "jid": "6289691375967@s.whatsapp.net",
+      "name": "we are cio udundev"
+    },
+    "6285643909064@s.whatsapp.net": {
+      "jid": "6285643909064@s.whatsapp.net",
+      "name": "Rιԃȥ suka orng satset"
+    },
+    "6285283582478@s.whatsapp.net": {
+      "jid": "6285283582478@s.whatsapp.net",
+      "name": "."
+    },
+    "60167037020@s.whatsapp.net": {
+      "jid": "60167037020@s.whatsapp.net",
+      "name": "MK4"
+    },
+    "62882005686310@s.whatsapp.net": {
+      "jid": "62882005686310@s.whatsapp.net",
+      "name": "https://ẉ.Fikzz"
+    },
+    "6285607588713@s.whatsapp.net": {
+      "jid": "6285607588713@s.whatsapp.net",
+      "name": "ria"
+    },
+    "6285708660353@s.whatsapp.net": {
+      "jid": "6285708660353@s.whatsapp.net",
+      "name": "𝗛𝗮𝗺𝘇𝘇𝗠𝗮𝗿𝗸𝗲𝘁"
+    },
+    "972569101540@s.whatsapp.net": {
+      "jid": "972569101540@s.whatsapp.net",
+      "name": "yyyy"
+    },
+    "6283186813433@s.whatsapp.net": {
+      "jid": "6283186813433@s.whatsapp.net",
+      "name": "razzxz"
+    },
+    "6285649687656@s.whatsapp.net": {
+      "jid": "6285649687656@s.whatsapp.net",
+      "name": "you good i know"
+    },
+    "6285871074338@s.whatsapp.net": {
+      "jid": "6285871074338@s.whatsapp.net",
+      "name": "[Faiz@VoidLinux ~]$"
+    },
+    "6289530071590@s.whatsapp.net": {
+      "jid": "6289530071590@s.whatsapp.net",
+      "name": "RaynoldLʏʀɪᴄ"
+    },
+    "62895322301377@s.whatsapp.net": {
+      "jid": "62895322301377@s.whatsapp.net",
+      "name": "zhuxin"
+    },
+    "6282245409729@s.whatsapp.net": {
+      "jid": "6282245409729@s.whatsapp.net",
+      "name": "santana"
+    },
+    "79234011555@s.whatsapp.net": {
+      "jid": "79234011555@s.whatsapp.net",
+      "name": "hyuuOkkotsuu`"
+    },
+    "6282324624080@s.whatsapp.net": {
+      "jid": "6282324624080@s.whatsapp.net",
+      "name": "Nesa"
+    },
+    "12468503760@s.whatsapp.net": {
+      "jid": "12468503760@s.whatsapp.net",
+      "name": "Apocalypse"
+    },
+    "6282343255439@s.whatsapp.net": {
+      "jid": "6282343255439@s.whatsapp.net",
+      "name": "Order ke owner Tats store"
+    },
+    "6285188791564@s.whatsapp.net": {
+      "jid": "6285188791564@s.whatsapp.net",
+      "name": "⁨https://ẉ.Rizz⁩⁩⁩⁩"
+    },
+    "62881011707929@s.whatsapp.net": {
+      "jid": "62881011707929@s.whatsapp.net",
+      "name": "gracéllyn"
+    },
+    "6285143032880@s.whatsapp.net": {
+      "jid": "6285143032880@s.whatsapp.net",
+      "name": "https://ẉ.sky/Lèoñ"
+    }
+  },
   "notiflimit": false,
   "pgTopups": {},
   "pgPayments": {},
