@@ -22,8 +22,8 @@
         "name": "https://ẉ.Fikzz"
       },
       "6285607588713@s.whatsapp.net": {
-        "count": 36,
-        "lastChat": 1784301907276,
+        "count": 47,
+        "lastChat": 1784330878650,
         "name": "ria"
       },
       "6285708660353@s.whatsapp.net": {
@@ -32,9 +32,9 @@
         "name": "𝗛𝗮𝗺𝘇𝘇𝗠𝗮𝗿𝗸𝗲𝘁"
       },
       "972569101540@s.whatsapp.net": {
-        "count": 44,
-        "lastChat": 1784305030500,
-        "name": "yyyy"
+        "count": 51,
+        "lastChat": 1784330880894,
+        "name": "Azukane"
       },
       "6283186813433@s.whatsapp.net": {
         "count": 8,
@@ -52,13 +52,13 @@
         "name": "[Faiz@VoidLinux ~]$"
       },
       "6289530071590@s.whatsapp.net": {
-        "count": 2,
-        "lastChat": 1784300162367,
+        "count": 5,
+        "lastChat": 1784330829044,
         "name": "RaynoldLʏʀɪᴄ"
       },
       "62895322301377@s.whatsapp.net": {
-        "count": 1,
-        "lastChat": 1784300169803,
+        "count": 2,
+        "lastChat": 1784330831780,
         "name": "zhuxin"
       },
       "6282245409729@s.whatsapp.net": {
@@ -82,8 +82,8 @@
         "name": "Nesa"
       },
       "12468503760@s.whatsapp.net": {
-        "count": 28,
-        "lastChat": 1784305801053,
+        "count": 40,
+        "lastChat": 1784330874173,
         "name": "Apocalypse"
       },
       "6282343255439@s.whatsapp.net": {
@@ -105,6 +105,16 @@
         "count": 1,
         "lastChat": 1784304766058,
         "name": "https://ẉ.sky/Lèoñ"
+      },
+      "6282190575959@s.whatsapp.net": {
+        "count": 3,
+        "lastChat": 1784330878241,
+        "name": "Smith"
+      },
+      "6285706606594@s.whatsapp.net": {
+        "count": 22,
+        "lastChat": 1784330880689,
+        "name": "Chisanahana"
       }
     },
     "jid": "120363423370531772@g.us",
@@ -165,6 +175,11 @@
         "count": 1,
         "lastChat": 1784306105374,
         "name": "we are cio udundev"
+      },
+      "6281882892877@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1784330481048,
+        "name": "Senz"
       }
     },
     "jid": "120363069747521380@g.us",
@@ -172,6 +187,20 @@
     "welcome": false,
     "leave": false,
     "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "game": true,
+    "rpg": true,
+    "warnings": [],
+    "chat": {}
+  },
+  "120363406610000939@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363406610000939@g.us",
+    "name": "Unknown Group",
     "antilink": false,
     "antitoxic": false,
     "mute": false,
