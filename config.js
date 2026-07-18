@@ -9,19 +9,19 @@ const config = {
   },
 
   owner: {
-    name: "SukiNya Resbob", // Nama owner
-    number: ["62895385533890"], // Format: 628xxx (tanpa + atau 0)
+    name: "pais", // Nama owner
+    number: ["6288212949095"], // Format: 628xxx (tanpa + atau 0)
   },
 
   session: {
-    pairingNumber: "62895385533890", // Nomor WA yang akan di-pair, ini penting
+    pairingNumber: "6289673765513", // Nomor WA yang akan di-pair, ini penting
     usePairingCode: true, // true = Pairing Code, false = QR Code
   },
 
   bot: {
-    name: "𝗢𝗨𝗥𝗜𝗡 𝗗𝗘𝗟𝗨𝗫𝗘", // Nama bot
+    name: "justfriend mania", // Nama bot
     version: "3.2", // Versi bot
-    developer: "Zann", // Nama developer
+    developer: "pais", // Nama developer
   },
 
   assets: {
