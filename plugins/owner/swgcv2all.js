@@ -4,7 +4,7 @@ import { config } from "../../config.js";
 import te from "../../src/lib/ourin-error.js";
 import { saluranCtx } from "../../src/lib/ourin-context.js";
 import { generateWAMessage } from "ourin";
-const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 const botConfig = config;
 
 function buildSyntheticSwGcRawMessage(sock, remoteJid, innerMessage, messageId) {
@@ -103,8 +103,7 @@ async function handler(m, { sock }) {
     let successCount = 0;
     let failCount = 0;
 
-    for (let i = 0; i < groupIds.length; i++) {
-  const targetGroupId = groupIds[i];
+    for (const targetGroupId of groupIds) {
       try {
         let baseContent = {};
         if (rawContent.image) {
@@ -160,24 +159,14 @@ async function handler(m, { sock }) {
         );
 
         await sock.relayMessage(targetGroupId, finalMessage.message, {
-  messageId: messageId,
-});
-
-successCount++;
-
-// Delay 5 detik setelah setiap grup
-if (i < groupIds.length - 1) {
-  await delay(5000);
-}
-
-// Setiap selesai 5 grup, tambah delay 10 detik
-if ((i + 1) % 5 === 0 && i < groupIds.length - 1) {
-  await delay(10000);
-}
-
-} catch (err) {
-  failCount++;
-}
+          messageId: messageId,
+        });
+        
+        successCount++;
+      } catch (err) {
+        failCount++;
+      }
+    }
 
     await m.react("✅");
     await m.reply(
